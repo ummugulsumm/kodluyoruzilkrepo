@@ -2,6 +2,8 @@
 Bu repo [Kodluyoruz](http://kodluyoruz.org) Front End 
 Kodluyoruz Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
+![github](Ekran-G%C3%B6r%C3%BCnt%C3%BCs%C3%BC-_23_.jpg)
+
 ## **Installation**
 
 Öncelikle projeyi clonelayın. 
